@@ -1,0 +1,20 @@
+{
+    "t-menu": "Menu",
+    "t-dashboards": "Tableaux de bord",
+    "t-welcome": "Bienvenue ",
+    "t-logout": "Se déconnecter",
+    "t-settings": "Paramètres",
+    "t-contribuables": "Contribuables",
+    "t-details": "Voir plus",
+    "t-equipements": "Equipements",
+    "t-assiette": "Assiète",
+    "t-collectivite": "Collectivite",
+    "t-transactions": "Transactions",
+    "t-collectes": "Collectes",
+    "t-montant-payer": "Montant payé",
+    "t-montant-restant": "Montant restant",
+    "t-configurations": "Configurations",
+    "t-sous-entites": "Sous-entités"
+
+
+}
